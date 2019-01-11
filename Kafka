@@ -1,0 +1,17 @@
+ - Kafka
+	- topic and partitions
+	- brokers
+	- producer/consumer basic configuration
+	- Consume data from specific partition for a specific topic (using assign api)
+	- Produce data to specific partition for a specific topic 
+		[
+		producer.send(new ProducerRecord<byte[],byte[]>(topic, partition, key1, value1), callback1);
+ 		producer.send(new ProducerRecord<byte[],byte[]>(topic, partition, key2, value2), callback2);
+ 		]
+	- Publishing data to a topic using a file (Kafka Connector)
+	- Partition of a topic can be more than count of brokers (single broker can have 1000 partition) 
+	- Split-Brain and Fencing (https://techthoughts.typepad.com/managing_computers/2007/10/split-brain-quo.html)
+	- Kafka topic using JAVA (using zookeeper api)
+	- Tools to check Kafka topics, partitions, brokers detail
+	- Kafka Serializer (internal and multiple types)
+	- Kafka Connect

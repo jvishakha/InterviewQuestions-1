@@ -1,0 +1,5 @@
+ - Spring/SpringBoot/SpringBatch
+	- RestFul micro-service annotation (basic needed annotation)
+	- Refresh a micro-service (without stoping/start/redeploy : spring-actuator /refresh endpoint)
+	- Circular Dependency (https://www.baeldung.com/circular-dependencies-in-spring)
+	- Spring Scope (default) 

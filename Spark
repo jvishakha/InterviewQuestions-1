@@ -1,0 +1,14 @@
+ - Spark
+	- Internal flow of spark-submit (multiple steps)
+	- Driver and Executors
+	- RDD/Dataframe(SchemaRDD)/Dataset/PairedRDD
+	- register the UDF into spark SQL (sqlContext.udf.register(“alias_name_of_function”,function_name) )
+	- ways to create a RDD (calling transformation on rdd, calling sc.textFile(“filePath”), sc. parallelize(Array("jan","feb","mar")))
+	- cache and persist
+	- broadcast and accumulator
+	- RDD lineage vs DAG
+	- Spark Program to identify even and odd
+	- Transformation and Actions (check at least few)
+	- How will you insert the record into RDD which already have data in it. And your data is structured. Don’t want to use spark-	   sql statements. (https://www.programcreek.com/java-api-examples/index.php?api=org.apache.spark.sql.Row) 
+	- Spark configurations for executors (what params you can set)
+	- Spark 1 vs 2

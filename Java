@@ -1,0 +1,27 @@
+ - Java
+	- OOPS concepts (4 pillars)
+	- SOLID (Design principles)
+	- Design pattern (singleton/factory/abstract-factory)
+	- collection framework (HashMap/HashSet/Hashtable/LinkedHashMap/TreeMap/TreeSet)
+	- equals and hash-code
+	- serializable and clone-able (interfaces)
+	- comparable and comparator (interfaces)
+	- final and static
+	- transient and native
+	- interface and abstract-class
+	- multi-threading
+	- deadlock identification & resolution(thread-dump linux command jstack -l <pid>)
+	- Binary tree (inorder/preorder/postorder) traversal
+	- power-set of a set
+	- word count program
+	- ArrayList and LinkedList (which one better in which scenario)
+	- PUT and POST request
+	- Microservices
+	- Java 8 features (https://www.journaldev.com/2389/java-8-features-with-examples)
+	- REST vs SOAP
+	- Merge 2 sorted array 
+	- 2nd Max element in array
+	- Spiral Problem
+	- Extends multiple classes leads to Dimond prob so not supported
+	- Dimond prob not in interface in java 8 why
+	- Java 7 new feature

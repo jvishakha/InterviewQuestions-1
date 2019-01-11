@@ -1,0 +1,11 @@
+ - Hadoop
+	- Difference between hadoop-1 and 2
+	- NameNode vs DataNode vs EdgeNode vs GatewayNode vs MasterNode (NameNode=MasterNode and 					   EdgeNode=GatewayNode)
+	- 3 modes of Hadoop (how will you config the mode: mapred-site.xml, core-site.xml, hdfs-site.xml, yarn-site.xml )
+	- Job tracker and Task tracker in Hadoop-1 
+	- Major Properties you can set in hdfs-site.xml
+	- DataNode communication if it is down (whom and how) : NameNode every 3 secs default dfs.heartbeat.interval
+	- MapReduce Job flow and internal working
+	- Default block size and how you can change it (hdfs-site.xml : dfs.blocksize )
+	- Why we are calling NodeManager as a manager (mention responsibility)
+	- How secondary NameNode becomes primary NameNode (from where and which metadata log file : fsimage file)

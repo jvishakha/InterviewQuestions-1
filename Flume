@@ -1,0 +1,3 @@
+Flume
+	- Internal architecture
+	- How acknowledgment works (cleans data from channel : it follows transactional approach)

@@ -1,0 +1,6 @@
+ - Hive
+	- create external table syntax
+	- Different file format
+	- ORC and Parquet
+	- Advantages of Hive over Cassandra/HBase etc
+	- Managed vs External
