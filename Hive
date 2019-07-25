@@ -4,3 +4,5 @@
 	- ORC and Parquet
 	- Advantages of Hive over Cassandra/HBase etc
 	- Managed vs External
+	- Hive wordcount
+	- Why ORC 

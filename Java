@@ -1,10 +1,10 @@
  - Java
-	- OOPS concepts (4 pillars)
+	- OOPS concepts (4 pillars - E/A/I/P)
 	- SOLID (Design principles)
-	- Design pattern (singleton/factory/abstract-factory)
+	- Design pattern (singleton/factory/abstract-factory/Strategy)
 	- collection framework (HashMap/HashSet/Hashtable/LinkedHashMap/TreeMap/TreeSet)
-	- equals and hash-code
-	- serializable and clone-able (interfaces)
+	- equals and hashcode
+	- serializable and cloneable (interfaces)
 	- comparable and comparator (interfaces)
 	- final and static
 	- transient and native
@@ -25,3 +25,7 @@
 	- Extends multiple classes leads to Dimond prob so not supported
 	- Dimond prob not in interface in java 8 why
 	- Java 7 new feature
+	- Design Shopping Cart
+	- Bubble sort 
+	- Merge Sort
+	- 4L/3L Jar Puzzle 

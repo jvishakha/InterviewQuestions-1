@@ -3,3 +3,6 @@
 	- Lambda (overcome 5 mins limitation)
 	- SM
 	- Athena internally works
+	- Athena query execution id
+	- Athena query output default store location and how to overwrite
+	- load data from S3 to Aurora 

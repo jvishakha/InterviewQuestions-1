@@ -12,6 +12,9 @@
 	- Partition of a topic can be more than count of brokers (single broker can have 1000 partition) 
 	- Split-Brain and Fencing (https://techthoughts.typepad.com/managing_computers/2007/10/split-brain-quo.html)
 	- Kafka topic using JAVA (using zookeeper api)
-	- Tools to check Kafka topics, partitions, brokers detail
-	- Kafka Serializer (internal and multiple types)
+	- Tools to check Kafka topics, partitions, brokers detail : kafka-topics-ui , lenses
+	- Kafka Serializer (internal and multiple types) : String,Long,Double,Integer,Bytes, Custom (https://data-flair.training/blogs/kafka-serialization-and-deserialization/)
 	- Kafka Connect
+	- Effect of increasing consumer in a consumer group for a application 
+	- Effect of increasing producer for a application 
+	- Fault tolerance 

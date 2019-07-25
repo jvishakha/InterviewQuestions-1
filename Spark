@@ -9,6 +9,9 @@
 	- RDD lineage vs DAG
 	- Spark Program to identify even and odd
 	- Transformation and Actions (check at least few)
-	- How will you insert the record into RDD which already have data in it. And your data is structured. Don’t want to use spark-	   sql statements. (https://www.programcreek.com/java-api-examples/index.php?api=org.apache.spark.sql.Row) 
+	- How will you insert the record into RDD which already have data in it. And your data is structured. Don’t want to use spark-sql statements. (https://www.programcreek.com/java-api-examples/index.php?api=org.apache.spark.sql.Row) 
 	- Spark configurations for executors (what params you can set)
-	- Spark 1 vs 2
+	- Spark 1 vs 2(sql, stream,udf - support)
+	- what if application master fails : app stops
+	- what if container or executor fails : driver/app_master will assign work to other container
+	- start a spark-job using a rest api 
